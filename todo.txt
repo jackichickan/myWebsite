@@ -1,0 +1,8 @@
+things to do for website
+- add photo cred to iley
+- add more stuff on the "me" page
+- add to readme
+- colors
+    - orange: #c54d07
+    - green: #30695a
+    - tan: #9c9686
