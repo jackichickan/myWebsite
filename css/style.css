@@ -16,7 +16,7 @@
 	{
 		margin: 0;
 		padding: 0;
-		background-color: #9c9686;
+		background-color: #c6c2b9;
 	}
 
 	body,input,textarea,select
@@ -25,13 +25,13 @@
 		font-size: 11pt;
 		font-weight: 300;
 		line-height: 1.75em;
-		color: #9c9686;
+		color: #c6c2b9;
 	}
 
 	h1,h2,h3,h4,h5,h6
 	{
 		font-weight: 300;
-		/* color: #9c9686; */
+		/* color: #c6c2b9; */
 	}
 
 		h2
@@ -41,14 +41,14 @@
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a
 		{
-			/* color: #9c9686; */
+			/* color: #c6c2b9; */
 			text-decoration: none;
 		}
 
 	strong, b
 	{
 		font-weight: 500;
-		color: #9c9686;
+		color: #c6c2b9;
 	}
 
 	em, i
@@ -59,7 +59,7 @@
 	a
 	{
 		text-decoration: none;
-		/* color: #9c9686; */
+		/* color: #c6c2b9; */
 	}
 
 	a:hover
@@ -94,7 +94,7 @@
 		border-left: solid 0.5em #ddd;
 		padding: 1em 0 1em 2em;
 		font-style: italic;
-		/* background-color: #9c9686; */
+		/* background-color: #c6c2b9; */
 	}
 
 	p, ul, ol, dl, table
@@ -137,7 +137,7 @@
 	}
 
 	* {box-sizing: border-box;}
-	
+
 	.column {
 		float: left;
 		width: 33.33%;
@@ -837,7 +837,7 @@
 		#logo span
 		{
 			font-size: 1.4em;
-			color: #9c9686;
+			color: #c6c2b9;
 		}
 
 /*********************************************************************************/
@@ -872,14 +872,14 @@
 			display: inline-block;
 			border-right: 1px solid;
 			border-color: rgba(255,255,255,.1);
-			color: 	#9c9686;
+			color: 	#c6c2b9;
 		}
 
 			#nav > ul > li:last-child
 			{
 				padding-right: 0;
 				border-right: none;
-				color: 	#9c9686;
+				color: 	#c6c2b9;
 			}
 
 			#nav > ul > li > a,
@@ -892,12 +892,12 @@
 				text-transform: uppercase;
 				font-size: 1.1em;
 				outline: 0;
-				color: 	#9c9686;
+				color: 	#c6c2b9;
 			}
 
 			#nav li.active a
 			{
-				color: 	#9c9686;
+				color: 	#c6c2b9;
 			}
 
 			#nav > ul > li > ul
@@ -943,7 +943,7 @@
 
 	#footer header h2
 	{
-		color: #9c9686; !important;
+		color: #c6c2b9; !important;
 	}
 
 	#footer header .byline
@@ -1040,5 +1040,5 @@
 			border: none;
 			margin: 0;
 			font-weight: 300;
-			color: #9c9686;
+			color: #c6c2b9;
 		}
